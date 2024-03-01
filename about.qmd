@@ -3,5 +3,3 @@ title: "About"
 ---
 
 My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor's in Mathematics and Statistics major and Computer Sciences minor. I am interested in teaching mathematics and mathematical educational research. I believe that everyone can learn mathematics and logic plays an important role in learning and teaching mathematics.
-
-
