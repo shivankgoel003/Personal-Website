@@ -9,8 +9,10 @@ My relevant coursework is:\
 1. STA302 - Methods of Data Analysis I\
 2. CSC311 - Introduction to Machine Learning\
 3. MAT402 - Classical Geometries\
-4. MAT244 - Differential Equations \
-5. MAT302 - Mathematical Cryptography \
+4. MAT244 - Differential Equations\
+5. MAT302 - Mathematical Cryptography\
 6. MAT301 - Groups and Symmetries\
 7. MAT236 - Vector Calculus\
-8. STA304  - Survey and Sampling\
+8. STA304 - Survey and Sampling
+
+\
