@@ -5,3 +5,5 @@ title: "Welcome to my personal website"
 **Hi!\
 \
 My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor's in Mathematics and Statistics major and Computer Sciences minor.**
+
+Here is my CV : [Download Resume](https://github.com/shivankgoel003/Personal-Website/raw/main/CV%20-%20Goel%2C%20Shivank.pdf)

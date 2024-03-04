@@ -4,7 +4,8 @@ title: "About"
 
 My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor's in Mathematics and Statistics major and Computer Sciences minor. I am interested in teaching mathematics and mathematical educational research. I believe that everyone can learn mathematics and statistics and logic plays an important role in learning them.
 
-My relevant coursework is:\
+My relevant coursework is
+
 \
 1. STA302 - Methods of Data Analysis I\
 2. CSC311 - Introduction to Machine Learning\
@@ -13,6 +14,6 @@ My relevant coursework is:\
 5. MAT302 - Mathematical Cryptography\
 6. MAT301 - Groups and Symmetries\
 7. MAT236 - Vector Calculus\
-8. STA304 - Survey and Sampling
-
-\
+8. STA304 - Survey and Sampling\
+9. STA258 & STA260 - Probability and Statistics I & \|\|\
+10. MAT202 - Discrete Mathematics
