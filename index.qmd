@@ -4,6 +4,32 @@ title: "Welcome to my personal website"
 
 **Hi!\
 \
-My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor's in Mathematics and Statistics major and Computer Sciences minor.**
+My name is Shivank Goel. I am an undergraduate candidate at the University of Toronto, Ontario pursuing my Bachelor's in Mathematics and Statistics major and Computer Sciences minor. Here is my CV** **:** [Download Resume](https://github.com/shivankgoel003/Personal-Website/raw/main/CV%20-%20Goel%2C%20Shivank.pdf)
 
-Here is my CV : [Download Resume](https://github.com/shivankgoel003/Personal-Website/raw/main/CV%20-%20Goel%2C%20Shivank.pdf)
+### 
+
+### **My Academic Pursuit**
+
+My academic journey is a blend of deep dives into Mathematics and Statistics, alongside a strong foundation in Computer Sciences. I've engaged with a wide array of subjects from Machine Learning and Data Analysis to Mathematical Cryptography and Software Design. This wide range if subjects have improved my tech skills and helped me understand big ideas behind them.
+
+### **My Skills and Work Experience**
+
+I know how to use several programming languages like Python, Java, C, and JavaScript. I have worked as an intern at Adiksu Technologies Inc., where I helped with data analysis and making better battery systems. I also taught math and statistics to students, which helped me improve my teaching skills.
+
+### Projects
+
+Here's a quick glance at some of the projects I've worked on:
+
+1.  **COVID-19 and Student Performance**\
+    Analyzing how different learning methods affected student grades during the pandemic. [View on GitHub](https://github.com/shivankgoel003/Student-Performance-COVID-19-US-States-Factors).
+
+2.  **City of Toronto’s Consulting Expenditure**\
+    Investigating the city's consultant spending patterns over five years to identify strategic focuses and trends.
+
+3.  **AI's Impact in Education**\
+    Examining how AI tools influence student learning and perceptions within a university course.
+
+4.  **CHRONOS Time Management**\
+    Developing a web-based system to improve time management, incorporating user-friendly design and Agile methodologies.
+
+For more details, feel free to explore my site or get in touch!

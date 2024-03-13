@@ -18,7 +18,9 @@ website:
         
 format:
   html:
-    theme: superhero
+    theme:
+     light: sketchy
+     dark: solar
     css: styles.css
     toc: true
 
